@@ -1,0 +1,21 @@
+Projeto: Future Skills Lab – Sistema de Orientação de Carreira (PCAP)
+
+Repositório GitHub:
+https://github.com/idrenanbr/pcap-future-skills-lab
+
+Integrantes do projeto:
+
+Nome: Kaio Correa
+RM: 563443
+Curso: Ciência da Computação – 1º ano – FIAP
+
+Nome: Renan Mano Otero
+RM: 554911
+Curso: Ciência da Computação – 1º ano – FIAP
+
+Documentação de entrega:
+O projeto inclui vídeo demonstrativo do funcionamento completo do sistema,
+cumprindo o critério obrigatório solicitado no enunciado da disciplina.
+
+Link do vídeo (YouTube – Não listado):
+ADICIONAR_LINK_DO_VIDEO_AQUI
