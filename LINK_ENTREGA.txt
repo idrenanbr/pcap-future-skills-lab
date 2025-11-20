@@ -18,4 +18,4 @@ O projeto inclui vídeo demonstrativo do funcionamento completo do sistema,
 cumprindo o critério obrigatório solicitado no enunciado da disciplina.
 
 Link do vídeo (YouTube – Não listado):
-ADICIONAR_LINK_DO_VIDEO_AQUI
+https://youtu.be/syhmvoC3F80
