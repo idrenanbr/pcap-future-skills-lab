@@ -92,7 +92,7 @@ Para atender ao critério de documentação (print ou vídeo), o projeto inclui 
 - Visualização das carreiras do futuro
 
 🔗 **Link do vídeo (YouTube – Não listado):**  
-ADICIONAR_LINK_DO_VIDEO_AQUI
+https://youtu.be/syhmvoC3F80
 
 ---
 
